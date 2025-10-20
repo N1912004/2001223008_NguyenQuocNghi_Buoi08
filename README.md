@@ -1,3 +1,4 @@
+BÀI TẬP BUỔI 08
 Trang  http://127.0.0.1:8000/products:
 <img width="906" height="608" alt="image" src="https://github.com/user-attachments/assets/41629358-c726-4461-a4ae-fdfe5a399968" />
 Trang http://127.0.0.1:8000/students :
