@@ -8,7 +8,6 @@ Trang http://127.0.0.1:8000/profiles:
 Trang http://127.0.0.1:8000/queries:
 -> Trang 2:
 <img width="691" height="581" alt="image" src="https://github.com/user-attachments/assets/9190e6d3-061d-42e8-8ad1-84fc19344cdd" />
-====Bài tập ôn luyện====
-<img width="610" height="226" alt="image" src="https://github.com/user-attachments/assets/1043bc14-4523-4224-99af-db68c651c2c0" />
+
 
 
